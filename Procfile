@@ -1,1 +1,1 @@
-worker: node TenmaGabriel
+worker: node DiscordBot
