@@ -3,7 +3,7 @@
   "version": "",
   "scripts":{
     "start": "node TenmaGabriel"
-  }
+  },
   "dependencies": {
     "args": "^5.0.0",
     "connection": "0.0.0",
