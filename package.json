@@ -1,6 +1,9 @@
 {
   "name": "",
   "version": "",
+  "scripts":{
+    "start": "node TenmaGabriel"
+  }
   "dependencies": {
     "args": "^5.0.0",
     "connection": "0.0.0",
@@ -26,5 +29,6 @@
     "superagent": "^3.8.3",
     "ytdl-core": "^0.24.0",
     "simple-youtube-api": "^5.0.2"
+    "request": "2.81.0" OPTI
   }
 }
